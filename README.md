@@ -6,7 +6,7 @@ I'm a dedicated software developer with a keen interest in both front-end and ba
 
 - 🔭 Currently involved in a front-end project that I'll make fully responsive using HTML, CSS, and JavaScript, before converting it into a WordPress site.
 - 🌱 Constantly learning new technologies and enhancing my skill set.
-- 💬 Feel free to ask me about web development, JavaScript frameworks, or full-stack development.
+- 💬 Feel free to ask me about front-end development, back-end development, and full-stack projects.
 - 📫 How to reach me: [Email](mailto:fsshaikh2612@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fs2612/)
 
 ## Technical Skills
