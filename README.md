@@ -1,13 +1,15 @@
 # Hi there, I'm Fahim Shaikh 👋
 
-I'm a dedicated software developer with a keen interest in both front-end and back-end technologies. At present, I'm working at QalbIT Infotech Pvt LTD, focusing on creating responsive and engaging web applications.
+I'm a passionate software developer with a strong focus on both front-end and back-end technologies. Currently, I work at QalbIT Infotech Pvt LTD as a PHP developer, where I'm dedicated to creating responsive and engaging web applications.
 
 ## About Me
 
-- 🔭 Currently involved in a front-end project that I'll make fully responsive using HTML, CSS, and JavaScript, before converting it into a WordPress site.
-- 🌱 Constantly learning new technologies and enhancing my skill set.
-- 💬 Feel free to ask me about front-end development, back-end development, and full-stack projects.
-- 📫 How to reach me: [Email](mailto:fsshaikh2612@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fs2612/)
+- 🚀 I specialize in building responsive and interactive web applications using HTML, CSS, JavaScript, and PHP.
+- 💻 I can develop and manage both front-end and back-end components, ensuring seamless integration and functionality.
+- 🛠️ I have expertise in creating custom themes and plugins for WordPress, as well as converting static websites into dynamic WordPress sites.
+- 🎯 I'm proficient in using frameworks like Laravel to build robust and scalable web applications.
+- 🤝 I excel in collaborating with cross-functional teams to deliver high-quality software solutions.
+- 🌟 I strive to write clean, maintainable, and efficient code, with a focus on best practices and industry standards.
 
 ## Technical Skills
 
@@ -17,12 +19,13 @@ I'm a dedicated software developer with a keen interest in both front-end and ba
 
 ## Projects
 
-- **Food Blog:** A personal project focused on sharing culinary experiences and recipes (private repository).
-- **E-commerce Platform:** A comprehensive online store with integrated payment processing (private repository).
+1. **Food Blog:** A personal project focused on sharing culinary experiences and recipes (private repository).
+2. **E-commerce Platform:** A comprehensive online store with integrated payment processing (private repository).
+3. **Responsive Front-end Project:** Developed a fully responsive front-end, which has been successfully converted into a dynamic WordPress site and is now live (project completed at QalbIT).
 
 ## Professional Experience
 
-- **QalbIT Infotech Pvt LTD:** Developing a fully responsive front-end project, which will be later converted into a WordPress site and made live.
+- **QalbIT Infotech Pvt LTD:** As a PHP developer, I have successfully delivered a fully responsive front-end project that was later integrated into WordPress. The website is now live, showcasing my ability to bring projects from concept to completion.
 
 ## Connect with Me
 
