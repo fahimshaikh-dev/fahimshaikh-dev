@@ -16,11 +16,13 @@ I'm a passionate software developer with a strong focus on both front-end and ba
 - **Frameworks:** Laravel
 - **Tools:** Git
 
-## Projects
+## Local Projects
 
 1. **Food Blog:** A personal project focused on sharing culinary experiences and recipes (private repository).
 2. **E-commerce Platform:** A comprehensive online store with integrated payment processing (private repository).
-3. **Responsive Front-end Project:** Developed a fully responsive front-end, which has been successfully converted into a dynamic WordPress site.
+
+## Live Projects
+1. **[Whtmaction](https://whatmaction.com/):** Developed a fully responsive front-end-side, which has been successfully converted into a dynamic WordPress site.
 
 ## Connect with Me
 
