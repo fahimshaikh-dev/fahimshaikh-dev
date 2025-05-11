@@ -10,21 +10,6 @@ I'm a passionate software developer with a strong focus on both front-end and ba
 - 🎯 Proficient in leveraging frameworks like **Laravel** to build robust and scalable web applications that meet modern standards.
 - 🌟 Committed to writing **clean**, **maintainable**, and **efficient** code, following best practices and industry standards to deliver quality solutions.
 
-## Technical Skills
-
-- **Languages:** HTML5, CSS3, SASS, Bootstrap, C, C++, JavaScript, jQuery, AJAX, PHP, MySQL
-- **Frameworks:** Laravel
-- **Tools:** Git
-
-## Local Projects
-
-1. **Food Blog:** A personal project focused on sharing culinary experiences and recipes, with an emphasis on user-friendly design and responsive layout (private repository).
-2. **E-commerce Platform:** A comprehensive online store featuring integrated payment processing, showcasing a full-stack development approach (private repository).
-
-## Live Projects
-
-1. **[Whtmaction](https://whatmaction.com/):** Developed a fully responsive front-end that was seamlessly converted into a dynamic WordPress site, delivering an intuitive and engaging user experience.
-
 ## Connect with Me
 
 - [Email](mailto:fsshaikh2612@gmail.com)
